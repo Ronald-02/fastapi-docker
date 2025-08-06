@@ -1,4 +1,9 @@
   ### API de Gestão de Atletas
+<img width="1202" height="867" alt="fastapi" src="https://github.com/user-attachments/assets/fb8793a2-b113-43ac-a766-056d0ecd8d32" />
+
+  
+
+
 
 Este projeto é uma API REST desenvolvida com FastAPI e PostgreSQL, utilizando Docker e SQLAlchemy assíncrono. O objetivo é gerenciar atletas, centros de treinamento e categorias com funcionalidades completas de CRUD e relacionamento entre tabelas via UUID.
 
